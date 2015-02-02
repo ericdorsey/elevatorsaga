@@ -1,6 +1,8 @@
 Code for [http://play.elevatorsaga.com](http://play.elevatorsaga.com).
 
-This solution got through level 6 (barely).
+This solution got through level 7   
+*(are people measuring how consistently their solutions make it through each challenge?)*
+
 
 Areas for Improvements:
 
